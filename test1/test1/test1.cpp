@@ -4,6 +4,11 @@
 using namespace System;
 bool Guess(int number) {
 }
-int main(array<System::String ^> ^args)
+int main(array<System::String ^> ^args)//555555555555555
 {
+	int i = 0;
+	if (i == 1)
+	{
+		i += 1;
+	}
 }
