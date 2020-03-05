@@ -7,7 +7,7 @@ bool Guess(int number) {
 int main(array<System::String ^> ^args)//555555555555555
 {
 	int i = 0;
-	if (i == 1)
+	if (i == 0)
 	{
 		i += 1;
 	}
